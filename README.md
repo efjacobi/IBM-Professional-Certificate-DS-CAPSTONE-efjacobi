@@ -1,7 +1,6 @@
 - 👋 Hi, I’m efjacobi
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python for data science.
-- 💞️ I’m looking to collaborate on Theia dashoarding
+- 🌱 I’ve just completed the IBM Professional Certificate in data science (10 DS courses).
 - 📫 How to reach me e-mail == ejacobi1@comcast.net.
 
 <!---
